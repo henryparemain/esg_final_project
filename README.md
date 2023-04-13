@@ -16,29 +16,7 @@ In summary, this project demonstrates the potential of NLP techniques to facilit
 
 https://www.veed.io/embed/88c8e1a3-e1d3-4a26-a109-6187c5d1a3e8
 
-Project Flowchart
-------------
 
-![Alt text](/project_flowchart.svg)
-
-
-Project Organization
-------------
-
-    ├── README.md               <- The top-level README for developers using this project.
-    │
-    ├── data                    <- All data files required to run notebooks (NB too large to upload to GIT - see
-    │                           Google Drive link above to download data and place in this folder locally)
-    │  
-    ├── notebooks               <- Contains all final notebooks involved in the project
-    │        
-    ├── capstone_env.yml        <- The requirements file for reproducing the analysis environment
-    │
-    ├── project_flow_chart.svg  <- flow chart of project workflow
-    │
-    ├── final_report.pdf        <- written report which summarises the project
-    │
-    ├── slide_deck.pdf           <- Non-technical slide deck of the project
 
 
 
