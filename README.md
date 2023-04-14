@@ -14,8 +14,7 @@ In summary, this project demonstrates the potential of NLP techniques to facilit
 
 **Walkthrough Demo of Streamlit App:**
 
-https://www.veed.io/embed/88c8e1a3-e1d3-4a26-a109-6187c5d1a3e8
-
+https://www.veed.io/embed/311d48be-ce2b-47cd-a543-f8633d2cf4b3
 
 
 
