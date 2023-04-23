@@ -1,10 +1,10 @@
 TITLE: 'Shining a light on ESG with NLP' 
 ==============================
-**Important Note:**
 
-Please note that for privacy reasons, the code base of this project is not hosted publicly. If you are interested in the code then please contact henry.paremain@gmail.com.
+**Data:**
 
-A summary video, report and slide deck are all available from this repo to demonstrate the output of the project.
+All pickles required for the notebooks can be found in the following google drive link:
+https://drive.google.com/drive/folders/14Mgz1YHjDhcu6MNmcwIGRp2eZApT3_sG?usp=share_link
 
 **Abstract:**
 
@@ -16,6 +16,29 @@ In summary, this project demonstrates the potential of NLP techniques to facilit
 
 https://www.veed.io/embed/311d48be-ce2b-47cd-a543-f8633d2cf4b3
 
+Project Flowchart
+------------
+
+![Alt text](/project_flowchart.svg)
+
+
+Project Organization
+------------
+
+    ├── README.md               <- The top-level README for developers using this project.
+    │
+    ├── data                    <- All data files required to run notebooks (NB too large to upload to GIT - see
+    │                           Google Drive link above to download data and place in this folder locally)
+    │  
+    ├── notebooks               <- Contains all final notebooks involved in the project
+    │        
+    ├── capstone_env.yml        <- The requirements file for reproducing the analysis environment
+    │
+    ├── project_flow_chart.svg  <- flow chart of project workflow
+    │
+    ├── final_report.pdf        <- written report which summarises the project
+    │
+    ├── slide_deck.pdf          <- Non-technical slide deck of the project
 
 
 
